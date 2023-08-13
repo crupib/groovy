@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<customers>
+  <corporate>
+     <customer name="Bill Gates" company="Microsoft" />
+     <customer name="Tim Cook (gay)" company="Apple" />
+     <customer name="Larry Ellison" company="Oracle" />
+  </corporate>
+  <consumer>
+     <customer name = "John Doe" />
+     <customer name = "Joe Blow" />
+  </consumer>
+</customers>
+
