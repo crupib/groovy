@@ -18,4 +18,3 @@ static void main(String[] args) {
         println "${customer.@name} works for ${customer.@company}"
     }
 }
-
